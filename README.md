@@ -27,7 +27,7 @@ Ex: `uv init uv_demo`
 
 * To run any python file
 
-`uv run <.py file name>
+`uv run <.py file name>`
 
 * To sync your packages
 
